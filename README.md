@@ -2,4 +2,3 @@
 - 👀 I’m interested in frontend development, animation, and drawing. Now I know HTML, CSS, and Javascript, have an experience in OOP, including Single Page Application using the MVP. I can make your's layout adaptive and cross-browser. 
 - 🌱 I’m currently learning Angular and RSSchool pre-school program.
 - 💞️ I’m looking to collaborate with a friendly team, who will believe in me and where I can not just create beautiful buttons but also develop layouts and interfaces.
-- 📫 To reach me just send a message to my Telegram: @Natalia091827!
